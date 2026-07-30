@@ -1145,7 +1145,7 @@ I'm combining my academic journey with software development as I build my career
 
 # 📊 GitHub Analytics
 
-> **Note:** The cards below use public GitHub statistics services. If a third-party service is temporarily unavailable, GitHub itself remains the source of truth for repository and contribution activity.
+> My GitHub activity and development statistics are automatically generated and updated using GitHub Actions.
 
 ### GitHub Profile & Top Languages
 
@@ -1153,7 +1153,7 @@ I'm combining my academic journey with software development as I build my career
   <a href="https://github.com/codelightdev">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=codelightdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark"
+      src="./profile/stats.svg"
       alt="CodeLight GitHub Stats"
     />
   </a>
@@ -1161,17 +1161,17 @@ I'm combining my academic journey with software development as I build my career
   <a href="https://github.com/codelightdev">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelightdev&layout=compact&langs_count=8&hide_border=true&theme=dark"
+      src="./profile/top-langs.svg"
       alt="CodeLight Top Languages"
     />
   </a>
 </p>
 
-### GitHub Streak
+### 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=codelightdev&theme=dark&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    src="./profile/streak.svg"
     alt="CodeLight GitHub Streak"
   />
 </p>
