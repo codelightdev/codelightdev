@@ -1178,25 +1178,15 @@ I'm combining my academic journey with software development as I build my career
 
 ---
 
+
 # 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake-dark.svg"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
