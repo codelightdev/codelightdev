@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CodeLight2023">
-    <img src="https://img.shields.io/github/followers/CodeLight2023?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/codelightdev">
+    <img src="https://img.shields.io/github/followers/codelightdev?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/CodeLight2023?tab=repositories">
+  <a href="https://github.com/codelightdev?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -426,7 +426,7 @@ I'm comfortable working with:
 
 My GitHub:
 
-👉 **github.com/CodeLight2023**
+👉 **github.com/codelightdev**
 
 ---
 
