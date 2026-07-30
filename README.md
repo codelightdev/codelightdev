@@ -1147,91 +1147,57 @@ I'm combining my academic journey with software development as I build my career
 
 > **Note:** The cards below use public GitHub statistics services. If a third-party service is temporarily unavailable, GitHub itself remains the source of truth for repository and contribution activity.
 
-### GitHub Profile
+### GitHub Profile & Top Languages
 
 <p align="center">
   <a href="https://github.com/codelightdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=codelightdev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=000000&title_color=FFD700&text_color=F5F5F5&icon_color=FFD700" alt="CodeLight GitHub Stats" />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=codelightdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark"
+      alt="CodeLight GitHub Stats"
+    />
   </a>
-</p>
 
-### Top Languages
-
-<p align="center">
   <a href="https://github.com/codelightdev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelightdev&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FFD700&text_color=F5F5F5" alt="CodeLight Top Languages" />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelightdev&layout=compact&langs_count=8&hide_border=true&theme=dark"
+      alt="CodeLight Top Languages"
+    />
   </a>
 </p>
 
 ### GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codelightdev&theme=dark&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="CodeLight GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=codelightdev&theme=dark&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    alt="CodeLight GitHub Streak"
+  />
 </p>
 
 ---
 
-# 🐍 GitHub Contribution Animation
-
-The contribution snake requires a **GitHub Actions workflow** in the profile repository before the image can work.
-
-After setting up the workflow, this animation will appear:
+# 🐍 GitHub Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake-dark.svg"
+    />
   </picture>
 </p>
-
-### Contribution Workflow
-
-Create this file:
-
-```text
-.github/workflows/snake.yml
-```
-
-Then add:
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: codelightdev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After committing the workflow, manually run it once from:
-
-**GitHub → Actions → Generate Contribution Snake → Run workflow**
-
-The workflow creates the `output` branch that the README image references.
 
 ---
 
