@@ -1,101 +1,118 @@
 # 👋 Hey, I'm Iwejuo Henry Ebuka — aka CodeLight ⚡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,65:0369a1,100:06b6d4&height=220&section=header&text=CodeLight&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Iwejuo%20Henry%20Ebuka%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=58&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:1a1200,75:b8860b,100:ffd700&height=230&section=header&text=CodeLight&fontSize=76&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Iwejuo%20Henry%20Ebuka%20%7C%20Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=17&descColor=ffffff" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+in+Progress;Frontend+Developer;React+Developer;PHP+%26+MySQL+Developer;Building+Real-World+Digital+Solutions;Learning+%E2%80%A2+Building+%E2%80%A2+Debugging+%E2%80%A2+Improving;Currently+Learning+Full-Stack+Development+at+TS+Academy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+in+Progress;Frontend+%7C+React+%7C+JavaScript+Developer;Future+MERN+Stack+Developer;PHP+%26+MySQL+Developer;Future+Cybersecurity+%26+DevOps+Engineer;Building+Real-World+Digital+Solutions;Learn+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve" alt="CodeLight typing animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/codelightdev">
-    <img src="https://img.shields.io/badge/GitHub-codelightdev-020617?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-codelightdev-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
   </a>
   <a href="https://github.com/codelightdev?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-0369A1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=codelightdev&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=codelightdev&style=for-the-badge&color=B8860B&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-## 👨🏽‍💻 About Me
+## 🧑🏽‍💻 About Me
 
 I'm **Iwejuo Henry Ebuka**, a developer, technology enthusiast, builder, and lifelong learner known online as **CodeLight** ⚡.
 
-I'm passionate about building useful, responsive, interactive, and user-friendly digital solutions. I enjoy taking an idea or problem, breaking it down into smaller pieces, designing a solution, writing the code, debugging the difficult parts, and eventually turning it into something people can use.
+I'm passionate about building useful, responsive, interactive, secure, and user-friendly digital solutions. I enjoy taking an idea or problem, breaking it down into smaller pieces, designing a solution, writing the code, debugging the difficult parts, and eventually turning it into something people can use.
 
-My journey started with the fundamentals of web development and has gradually expanded into modern JavaScript, React, PHP, MySQL, APIs, authentication, Git/GitHub, deployment, and web security.
+My journey started with the fundamentals of web development and has grown through **HTML, CSS, JavaScript, PHP, MySQL, React, APIs, Git/GitHub, deployment, and web security concepts**.
 
 I'm currently taking a **Full-Stack Development course at TS Academy**, where I'm strengthening my frontend and backend knowledge and developing a deeper understanding of how complete software systems are designed and built.
 
-I don't want to only know how to create a webpage. My goal is to understand the complete journey:
+My current long-term direction is to become a **MERN Stack Developer**, while also expanding into **Cybersecurity and DevOps**.
+
+I want to understand not only how to build an application, but also how to secure it, deploy it, monitor it, maintain it, and eventually scale it.
 
 ```text
-Idea
-  ↓
-Planning
-  ↓
-UI / UX
-  ↓
-Frontend
-  ↓
-Backend
-  ↓
-Database
-  ↓
-API
-  ↓
-Authentication & Security
-  ↓
-Testing & Debugging
-  ↓
-Deployment
-  ↓
-Real Users
+                    💡 IDEA
+                       │
+                       ▼
+                  🎨 UI / UX
+                       │
+                       ▼
+                  💻 FRONTEND
+                       │
+                       ▼
+                   ⚙️ API
+                       │
+                       ▼
+                  🖥️ BACKEND
+                       │
+                       ▼
+                  🗄️ DATABASE
+                       │
+                       ▼
+                🔐 SECURITY
+                       │
+                       ▼
+                 🚀 DEVOPS
+                       │
+                       ▼
+                🌍 DEPLOYMENT
+                       │
+                       ▼
+                  👥 USERS
 ```
-
-I believe the best way to learn software development is to **learn, build, break, debug, understand, improve, and build again**.
 
 ---
 
 ## ⚡ The CodeLight Identity
 
-**CodeLight** is the developer identity and brand I use across my technology journey.
+**CodeLight** is the developer identity and technology brand I use throughout my journey.
 
-The name represents my approach to software development:
+The name represents my approach to development:
 
 > **Learn → Build → Solve → Improve → Repeat.**
 
-I believe becoming a good developer is not about knowing every programming language or framework. It is about developing the ability to understand problems, learn what is necessary, build solutions, troubleshoot failures, and continuously improve.
+I believe becoming a great developer is not about knowing every programming language or framework. It's about developing the ability to understand problems, learn what is necessary, build solutions, troubleshoot failures, and continuously improve.
 
-My goal with CodeLight is to keep learning, create useful technology, share what I learn, connect with other developers, and eventually build products that solve meaningful problems.
+My goal with CodeLight is to:
+
+- 💻 Build real-world software
+- 📚 Share what I learn
+- 🧠 Improve my engineering mindset
+- 🔐 Learn secure development
+- ☁️ Understand deployment and infrastructure
+- 🤝 Connect with other developers
+- 🚀 Build useful technology
+- 🌍 Create solutions that can make an impact
 
 ---
 
 # 🎯 Current Focus
 
-My current focus is becoming a stronger and more complete **Full-Stack Developer**.
+My current focus is becoming a stronger **Full-Stack Developer** and preparing for the **MERN Stack** ecosystem.
 
 I'm actively improving my knowledge in:
 
 - 🌐 Frontend development
-- ⚛️ React development
-- 🟨 Modern JavaScript
-- 🐘 PHP backend development
+- ⚛️ React
+- 🟨 JavaScript
+- 🟢 Node.js
+- 🛣️ Express.js
+- 🍃 MongoDB
+- 🐘 PHP
 - 🗄️ MySQL / MariaDB
 - 🔌 REST APIs
-- 🔐 Authentication & authorization
-- 🛡️ Web security
+- 🔐 Authentication & Authorization
+- 🛡️ Web Security
 - 🔀 Git & GitHub
-- 🚀 Deployment and hosting
-- 🧩 Software architecture
+- 🚀 Deployment
+- ⚙️ DevOps fundamentals
 - 🧪 Testing and debugging
+- 🧩 Software architecture
 - 🧠 Problem solving
-- 📚 Clean and maintainable code
-
-I'm combining what I learn through **TS Academy** with independent projects, experimentation, documentation, debugging, and practical development.
 
 ---
 
@@ -103,41 +120,241 @@ I'm combining what I learn through **TS Academy** with independent projects, exp
 
 I'm currently taking a **Full-Stack Development course at TS Academy**.
 
-This is an important part of my current learning journey because I'm working toward understanding how frontend, backend, databases, APIs, authentication, security, and deployment work together as one system.
+This is an important part of my current learning journey because I'm working toward understanding how frontend, backend, databases, APIs, authentication, security, and deployment work together as one complete system.
 
-Rather than seeing technologies as isolated tools, I'm learning to think about the complete application:
+I'm combining structured learning from TS Academy with:
+
+- Independent projects
+- Personal experiments
+- Documentation
+- Debugging
+- Research
+- Open-source learning
+- Practical development
+
+My goal isn't simply to complete a course.
+
+My goal is to **become capable of building real software**.
+
+---
+
+# 🚀 My Future Direction: MERN Stack
+
+One of my major career goals is to become a **MERN Stack Developer**.
+
+MERN stands for:
 
 ```text
-                 FULL-STACK APPLICATION
-
-                       👤 USER
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │  FRONTEND   │
-                  │ HTML/CSS/JS │
-                  │    React    │
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │     API     │
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │   BACKEND   │
-                  │     PHP     │
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │  DATABASE   │
-                  │ MySQL/MariaDB│
-                  └─────────────┘
+MongoDB
+   +
+Express.js
+   +
+React
+   +
+Node.js
 ```
 
-I'm using the course as a structured learning path while continuing to learn independently through real projects.
+### 🍃 MongoDB
+
+I plan to deepen my knowledge of:
+
+- NoSQL databases
+- Collections
+- Documents
+- CRUD
+- Data modeling
+- Indexing
+- Aggregation
+- MongoDB Atlas
+
+### 🛣️ Express.js
+
+I plan to learn and strengthen:
+
+- REST APIs
+- Routing
+- Middleware
+- Controllers
+- Error handling
+- Authentication
+- Authorization
+- API architecture
+
+### ⚛️ React
+
+React is already one of my major areas of focus.
+
+I'm continuing to improve:
+
+- Components
+- Props
+- State
+- Hooks
+- Context API
+- React Router
+- API integration
+- State management
+- Reusable architecture
+- Performance
+- Component design
+
+### 🟢 Node.js
+
+I'm working toward becoming comfortable with:
+
+- Node.js fundamentals
+- npm
+- File system
+- HTTP
+- Express
+- REST APIs
+- Authentication
+- Environment variables
+- Backend architecture
+- Asynchronous programming
+
+### 🗺️ My MERN Learning Path
+
+```text
+JavaScript
+    ↓
+React
+    ↓
+Node.js
+    ↓
+Express.js
+    ↓
+MongoDB
+    ↓
+REST APIs
+    ↓
+Authentication
+    ↓
+Testing
+    ↓
+Deployment
+    ↓
+Production MERN Applications
+```
+
+MERN is a **future direction I'm actively working toward**, rather than claiming that I have already mastered the entire stack.
+
+---
+
+# 🛡️ Future Cybersecurity Journey
+
+Another major area I plan to dive into is **Cybersecurity**.
+
+As a developer, I believe understanding security is extremely important because applications should not only work — they should also protect their users and data.
+
+I'm interested in learning:
+
+### 🔐 Application Security
+
+- SQL Injection
+- XSS
+- CSRF
+- Authentication vulnerabilities
+- Authorization vulnerabilities
+- Session security
+- Access control
+- Input validation
+- Output encoding
+- API security
+
+### 🌐 Network & System Security
+
+I plan to explore:
+
+- Networking fundamentals
+- TCP/IP
+- HTTP/HTTPS
+- DNS
+- Firewalls
+- Ports
+- Network monitoring
+- Linux security
+- System hardening
+
+### 🧪 Security Testing
+
+As I progress, I want to learn:
+
+- Vulnerability assessment
+- Penetration testing concepts
+- OWASP Top 10
+- Security testing
+- Threat modeling
+- Secure coding
+- Security tools and methodologies
+
+My long-term goal is to become a developer who understands **security from the beginning of the development lifecycle**, rather than treating it as an afterthought.
+
+---
+
+# ⚙️ Future DevOps Journey
+
+I'm also planning to dive into **DevOps**.
+
+I want to understand what happens after an application is written.
+
+My future DevOps learning areas include:
+
+- 🐧 Linux
+- 🐳 Docker
+- 🔄 CI/CD
+- ☁️ Cloud platforms
+- 🔧 GitHub Actions
+- 🌐 Nginx
+- 🖥️ Servers
+- 📦 Containers
+- 📊 Monitoring
+- 📝 Logging
+- 🔐 Secrets management
+- 🏗️ Infrastructure concepts
+- 📈 Application scalability
+
+### My Future DevOps Path
+
+```text
+Git
+ ↓
+Linux
+ ↓
+Shell
+ ↓
+Docker
+ ↓
+CI/CD
+ ↓
+GitHub Actions
+ ↓
+Cloud
+ ↓
+Deployment
+ ↓
+Monitoring
+ ↓
+Scalability
+```
+
+The goal is to understand how software moves from:
+
+```text
+💻 Local Machine
+       ↓
+📦 Build
+       ↓
+🧪 Test
+       ↓
+🔄 CI/CD
+       ↓
+🚀 Deploy
+       ↓
+📊 Monitor
+       ↓
+🔧 Maintain
+```
 
 ---
 
@@ -158,7 +375,7 @@ I'm using the course as a structured learning path while continuing to learn ind
 ### Frontend Skills
 
 - Semantic HTML5
-- Responsive Web Design
+- Responsive web design
 - CSS3
 - Flexbox
 - CSS Grid
@@ -170,13 +387,12 @@ I'm using the course as a structured learning path while continuing to learn ind
 - Array methods
 - Events
 - Forms and validation
-- Asynchronous JavaScript
 - Promises
 - Async/Await
 - Fetch API
 - JSON
 - Local Storage
-- Component-based development
+- React components
 - React Hooks
 - Context API
 - React Router
@@ -191,7 +407,7 @@ I'm using the course as a structured learning path while continuing to learn ind
 
 # ⚛️ React Development
 
-React is one of my major areas of focus.
+React is one of my major current development areas.
 
 I've practiced and worked with:
 
@@ -207,12 +423,10 @@ I've practiced and worked with:
 - Context API
 - React Router
 - Route configuration
-- Protected route concepts
 - Authentication flows
 - Local Storage
 - API integration
 - Reusable components
-- Component communication
 - Conditional rendering
 - Loading states
 - Skeleton loaders
@@ -226,17 +440,15 @@ App
 ├── Components
 ├── Pages
 ├── Context
-│   ├── Auth Context
-│   ├── Theme Context
-│   ├── Weather Context
-│   └── Shopping Cart Context
+│   ├── AuthContext
+│   ├── ThemeContext
+│   ├── WeatherContext
+│   └── ShoppingCartContext
 ├── Data
 ├── Assets
 ├── Routes
 └── Utilities
 ```
-
-I enjoy learning how to break large interfaces into smaller, reusable components rather than putting an entire application into one file.
 
 ---
 
@@ -249,7 +461,7 @@ I enjoy learning how to break large interfaces into smaller, reusable components
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
-My backend development journey currently focuses strongly on **PHP and relational databases**.
+My backend development journey currently includes **PHP and relational databases**, while my long-term direction is moving toward the **Node.js + Express.js + MongoDB** ecosystem.
 
 ### Backend Skills & Concepts
 
@@ -276,7 +488,7 @@ My backend development journey currently focuses strongly on **PHP and relationa
 
 # 🗄️ Database Development
 
-### Databases
+### Current Database Experience
 
 - MySQL
 - MariaDB
@@ -289,8 +501,6 @@ My backend development journey currently focuses strongly on **PHP and relationa
 - Primary keys
 - Foreign keys
 - Relationships
-- One-to-one relationships
-- One-to-many relationships
 - CRUD operations
 - `SELECT`
 - `INSERT`
@@ -300,9 +510,23 @@ My backend development journey currently focuses strongly on **PHP and relationa
 - Filtering
 - Sorting
 - Data validation
-- PHP database integration
 - PDO prepared statements
-- Basic database normalization
+
+### Future Database Focus
+
+```text
+MySQL / MariaDB
+       ↓
+MongoDB
+       ↓
+NoSQL Data Modeling
+       ↓
+Indexes
+       ↓
+Aggregation
+       ↓
+Scalable Data Architecture
+```
 
 ---
 
@@ -314,7 +538,7 @@ One important lesson I've learned is:
 
 > **A working application is not automatically a secure application.**
 
-I'm actively learning about:
+I'm currently learning about:
 
 - SQL Injection
 - Prepared statements
@@ -330,9 +554,8 @@ I'm actively learning about:
 - CSRF
 - Access control
 - Secure API practices
-- Secure database queries
 
-I'm especially interested in understanding **why vulnerabilities happen** and how developers can prevent them during the design and development process.
+Cybersecurity is one of the areas I intend to explore much more deeply as my software engineering skills grow.
 
 ---
 
@@ -340,7 +563,7 @@ I'm especially interested in understanding **why vulnerabilities happen** and ho
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -371,8 +594,6 @@ I'm especially interested in understanding **why vulnerabilities happen** and ho
 ---
 
 # 📦 Libraries & Frameworks
-
-I've worked with or explored:
 
 ### JavaScript / React
 
@@ -474,19 +695,6 @@ Lucide React
 CSS
 ```
 
-### Concepts Practiced
-
-- API requests
-- Context API
-- React Hooks
-- `useCallback`
-- Loading states
-- Error handling
-- Dynamic UI
-- API data transformation
-- Responsive design
-- Component architecture
-
 ---
 
 ## 📝 Todo Application
@@ -530,8 +738,6 @@ I've worked on React-based shopping and e-commerce projects involving:
 - Reusable components
 - Responsive interfaces
 
-These projects have helped me understand how shared application state can be managed across different components.
-
 ---
 
 ## 🔐 Authentication Projects
@@ -548,8 +754,6 @@ I've worked on React authentication projects involving:
 - Protected route concepts
 - Form validation
 - User session concepts
-
-I'm also learning how these basic concepts evolve into more secure production authentication systems.
 
 ---
 
@@ -596,8 +800,6 @@ Result
 - Plagiarism prevention concepts
 - Database integration
 
-This project has helped me think about software as a complete system rather than as individual pages.
-
 ---
 
 # 🌐 Business & Client Websites
@@ -617,7 +819,7 @@ Some areas I've worked on include:
 - Landing pages
 - Organization websites
 
-These projects have helped me understand that development is not just about writing code.
+These projects have helped me understand that development is not only about writing code.
 
 It also involves:
 
@@ -659,34 +861,6 @@ This has introduced me to concepts around:
 
 ---
 
-# 🚚 Product & Startup Ideas
-
-I'm interested in technology beyond just programming.
-
-I enjoy thinking about **products, startups, businesses, and technology-driven solutions**.
-
-Areas that interest me include:
-
-- Logistics
-- Delivery platforms
-- Digital marketplaces
-- Content platforms
-- On-demand services
-- Business-to-customer platforms
-- Education technology
-- Developer tools
-- Digital services
-
-I enjoy asking:
-
-> **What problem exists?**
-
-and then:
-
-> **How can technology solve it?**
-
----
-
 # 🌍 Deployment & Hosting
 
 I've worked with both modern frontend deployment platforms and traditional PHP/MySQL hosting environments.
@@ -704,7 +878,20 @@ I've worked with both modern frontend deployment platforms and traditional PHP/M
 - URL rewriting
 - Environment configuration
 
-I've worked with both local development environments and production hosting workflows.
+### Future DevOps Tools
+
+I plan to learn:
+
+- Linux
+- Docker
+- GitHub Actions
+- CI/CD
+- Nginx
+- Cloud platforms
+- Containers
+- Monitoring
+- Logging
+- Infrastructure concepts
 
 ---
 
@@ -732,7 +919,7 @@ Git and GitHub are important parts of my development workflow.
 
 **Username:** `codelightdev`
 
-My GitHub profile is where I document projects, experiments, learning, and development progress.
+GitHub is where I document my projects, experiments, learning, and development progress.
 
 ---
 
@@ -762,7 +949,7 @@ I've worked through issues involving:
 - Authentication
 - Deployment
 
-My approach to debugging is:
+My debugging approach:
 
 ```text
 Problem
@@ -782,13 +969,9 @@ Understand Why
 Prevent It Next Time
 ```
 
-Every bug I solve gives me a deeper understanding of the technology.
-
 ---
 
 # 🏗️ My Development Workflow
-
-I generally approach projects using a process similar to:
 
 ```text
 💡 IDEA
@@ -824,6 +1007,9 @@ I generally approach projects using a process similar to:
 🚀 DEPLOYMENT
    │
    ▼
+📊 MONITORING
+   │
+   ▼
 🔄 IMPROVEMENT
 ```
 
@@ -833,7 +1019,7 @@ I generally approach projects using a process similar to:
 
 I learn best by **building**.
 
-My learning process looks like:
+My learning process:
 
 ```text
 📚 LEARN
@@ -867,7 +1053,7 @@ My academic background is in **Mathematics**, which has helped strengthen my:
 
 - Analytical thinking
 - Logical reasoning
-- Problem-solving
+- Problem solving
 - Structured thinking
 - Attention to detail
 
@@ -875,143 +1061,59 @@ I'm combining my academic journey with software development as I build my career
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Current & Future Learning Roadmap
 
-Through **TS Academy** and independent practice, I'm currently improving my skills in:
+## 🟢 Current
 
-### Frontend
-
-- Advanced JavaScript
+- HTML
+- CSS
+- JavaScript
 - React
-- Component architecture
-- State management
-- API integration
-- Responsive design
-
-### Backend
-
 - PHP
+- MySQL
+- Git/GitHub
+- APIs
+- Responsive development
+- Full-Stack fundamentals
+- TS Academy Full-Stack course
+
+## 🟡 Next — MERN
+
+- Node.js
+- Express.js
+- MongoDB
 - REST APIs
-- Authentication
-- Authorization
-- Backend architecture
-- Database design
-
-### Security
-
-- SQL Injection prevention
-- Prepared statements
-- Secure authentication
-- Input validation
-- API security
-
-### Software Engineering
-
-- Git
-- Debugging
-- Clean code
-- Architecture
-- Testing
-- Scalability
-- Problem solving
-
----
-
-# 🔮 Future Learning Goals
-
-As my Full-Stack journey continues, I want to deepen my knowledge of:
-
-- TypeScript
 - Advanced React
-- Advanced backend architecture
+- Authentication
 - Testing
-- DevOps
-- Cloud technologies
-- System design
-- Data structures & algorithms
-- Software architecture
-- Scalable applications
-- Open-source development
+- Production MERN applications
+
+## 🟠 Then — DevOps
+
+- Linux
+- Shell
+- Docker
 - CI/CD
-- Production application security
+- GitHub Actions
+- Nginx
+- Cloud
+- Deployment
+- Monitoring
+- Logging
+- Scalability
 
-These are areas I'm working toward rather than claiming as my current expertise.
+## 🔴 Deep Dive — Cybersecurity
 
----
-
-# 🎯 Long-Term Goal
-
-My long-term goal is to become a highly skilled **Full-Stack Software Developer** capable of building complete, secure, scalable, maintainable, and useful applications.
-
-I want to be able to take an idea from:
-
-```text
-💡 CONCEPT
-   ↓
-🎨 DESIGN
-   ↓
-💻 FRONTEND
-   ↓
-⚙️ BACKEND
-   ↓
-🗄️ DATABASE
-   ↓
-🔌 API
-   ↓
-🔐 SECURITY
-   ↓
-🧪 TESTING
-   ↓
-🚀 DEPLOYMENT
-   ↓
-🌍 REAL USERS
-```
-
-and turn it into a real product.
-
-Eventually, I want to combine software engineering, product thinking, entrepreneurship, and problem solving to build technology that creates meaningful impact.
-
----
-
-# 📈 Developer Journey
-
-My development journey can be summarized as:
-
-```text
-HTML
-  ↓
-CSS
-  ↓
-JavaScript
-  ↓
-Git & GitHub
-  ↓
-PHP
-  ↓
-MySQL
-  ↓
-React
-  ↓
-APIs
-  ↓
-Authentication
-  ↓
-Security
-  ↓
-Full-Stack Development
-  ↓
-🚀 What's Next?
-```
-
-I'm still learning.
-
-I'm still building.
-
-I'm still debugging.
-
-I'm still improving.
-
-And that's exactly how I want the journey to continue.
+- Networking
+- Linux security
+- OWASP
+- Secure coding
+- Web vulnerabilities
+- API security
+- Vulnerability assessment
+- Penetration testing concepts
+- Threat modeling
+- Security testing
 
 ---
 
@@ -1019,83 +1121,237 @@ And that's exactly how I want the journey to continue.
 
 <div align="center">
 
-| Area | Technologies |
+| Area | Technologies / Direction |
 |---|---|
 | 🎨 Frontend | HTML5, CSS3, JavaScript, React |
 | ⚡ Build Tools | Vite, npm |
 | 🎨 UI | Bootstrap, Tailwind CSS |
-| 🖥️ Backend | PHP, PDO |
-| 🗄️ Database | MySQL, MariaDB |
+| 🖥️ Current Backend | PHP, PDO |
+| 🗄️ Current Database | MySQL, MariaDB |
+| 🚀 Future Backend | Node.js, Express.js |
+| 🍃 Future Database | MongoDB |
 | 🔌 APIs | REST APIs, Fetch API, JSON |
-| 🔐 Security | SQL Injection Prevention, Authentication, Validation |
+| 🔐 Security | Secure Coding, SQL Injection Prevention, OWASP |
 | 🔀 Version Control | Git, GitHub |
 | 🚀 Deployment | Netlify, cPanel, Apache |
-| 🧪 Development | VS Code, Sublime Text, XAMPP |
+| ⚙️ Future DevOps | Linux, Docker, CI/CD, Cloud, GitHub Actions |
+| 🛡️ Future Cybersecurity | Networking, Web Security, Pentesting Concepts |
 | 🎨 Design | Figma |
 | 📡 API Testing | Postman |
-| 🔭 Future Focus | TypeScript, Testing, DevOps, Cloud, System Design |
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
+
+> **Note:** The cards below use public GitHub statistics services. If a third-party service is temporarily unavailable, GitHub itself remains the source of truth for repository and contribution activity.
+
+### GitHub Profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codelightdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=22D3EE&icon_color=06B6D4&text_color=CBD5E1&bg_color=020617" alt="CodeLight GitHub Stats" />
+  <a href="https://github.com/codelightdev">
+    <img src="https://github-readme-stats.vercel.app/api?username=codelightdev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=000000&title_color=FFD700&text_color=F5F5F5&icon_color=FFD700" alt="CodeLight GitHub Stats" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codelightdev&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE" alt="CodeLight GitHub Streak" />
-</p>
+### Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelightdev&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=CBD5E1&bg_color=020617" alt="CodeLight Top Languages" />
+  <a href="https://github.com/codelightdev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelightdev&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FFD700&text_color=F5F5F5" alt="CodeLight Top Languages" />
+  </a>
+</p>
+
+### GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=codelightdev&theme=dark&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="CodeLight GitHub Streak" />
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 GitHub Contribution Animation
+
+The contribution snake requires a **GitHub Actions workflow** in the profile repository before the image can work.
+
+After setting up the workflow, this animation will appear:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/codelightdev/codelightdev/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
+
+### Contribution Workflow
+
+Create this file:
+
+```text
+.github/workflows/snake.yml
+```
+
+Then add:
+
+```yaml
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: codelightdev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After committing the workflow, manually run it once from:
+
+**GitHub → Actions → Generate Contribution Snake → Run workflow**
+
+The workflow creates the `output` branch that the README image references.
 
 ---
 
-# 🤝 Connect With Me
+# 🎯 Long-Term Goal
 
-I'm always open to connecting with developers, designers, entrepreneurs, students, tech enthusiasts, and people who are interested in building meaningful things with technology.
+My long-term goal is to become a highly skilled **Full-Stack Software Engineer** with strong knowledge across:
+
+```text
+                SOFTWARE ENGINEERING
+                        │
+        ┌───────────────┼────────────────┐
+        ▼               ▼                ▼
+     FRONTEND        BACKEND         DATABASES
+        │               │                │
+      React          Node.js          MongoDB
+      JavaScript     Express          MySQL
+        │               │                │
+        └───────────────┼────────────────┘
+                        │
+                        ▼
+                     APIs
+                        │
+                        ▼
+                  SECURITY
+                        │
+                        ▼
+                    DEVOPS
+                        │
+                        ▼
+                  DEPLOYMENT
+                        │
+                        ▼
+                  MONITORING
+                        │
+                        ▼
+                    SCALE
+```
+
+I want to be able to take an idea from concept to production while understanding the application, infrastructure, security, and deployment layers behind it.
+
+---
+
+# 🌍 Beyond Code
+
+Technology is a major part of my journey, but I'm interested in more than programming.
+
+I'm also interested in:
+
+- 💡 Entrepreneurship
+- 🚀 Startups
+- 🧠 Problem solving
+- 🎨 Product design
+- 🌍 Technology for real-world problems
+- 📈 Personal development
+- 🤝 Collaboration
+- 📚 Continuous learning
+- 🎵 Digital platforms
+- 💼 Building technology businesses
+
+My long-term vision is to combine:
+
+**Software Engineering + Cybersecurity + DevOps + Product Thinking + Entrepreneurship**
+
+---
+
+# 🤝 Collaboration
+
+I'm open to connecting and collaborating with:
+
+- 👨🏽‍💻 Developers
+- 🎨 Designers
+- 🚀 Founders
+- 💡 Entrepreneurs
+- 📚 Students
+- 🌍 Tech enthusiasts
+- 🧑🏽‍💻 Open-source contributors
+
+I'm especially interested in projects where I can:
+
+- Learn something new
+- Contribute meaningful work
+- Solve real problems
+- Work with other developers
+- Build useful products
+- Explore new technologies
+- Grow through collaboration
+
+---
+
+# 📱 Connect With Me
+
+I'm always open to connecting with developers, designers, entrepreneurs, students, tech enthusiasts, and people interested in building meaningful things with technology.
 
 <p align="center">
 
 <a href="https://www.instagram.com/codelightdev?igsh=cWxwYTB4bms4bjFn">
-  <img src="https://img.shields.io/badge/Instagram-CodeLight-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-CodeLight-000000?style=for-the-badge&logo=instagram&logoColor=FFD700" alt="Instagram" />
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=61558660801207">
-  <img src="https://img.shields.io/badge/Facebook-CodeLight-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-CodeLight-000000?style=for-the-badge&logo=facebook&logoColor=FFD700" alt="Facebook" />
 </a>
 
 <a href="https://youtube.com/@codelightacademy?si=mqVX5_2xw3eGSPpp">
-  <img src="https://img.shields.io/badge/YouTube-CodeLight%20Academy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <img src="https://img.shields.io/badge/YouTube-CodeLight%20Academy-000000?style=for-the-badge&logo=youtube&logoColor=FFD700" alt="YouTube" />
 </a>
 
 <a href="https://www.tiktok.com/@codelightacademy?_r=1&_t=ZS-98SsbWjsc0T">
-  <img src="https://img.shields.io/badge/TikTok-CodeLight%20Academy-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  <img src="https://img.shields.io/badge/TikTok-CodeLight%20Academy-000000?style=for-the-badge&logo=tiktok&logoColor=FFD700" alt="TikTok" />
 </a>
 
 <a href="https://x.com/codelightdev">
-  <img src="https://img.shields.io/badge/X-@codelightdev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  <img src="https://img.shields.io/badge/X-@codelightdev-000000?style=for-the-badge&logo=x&logoColor=FFD700" alt="X / Twitter" />
 </a>
 
 <a href="https://github.com/codelightdev">
-  <img src="https://img.shields.io/badge/GitHub-codelightdev-020617?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-codelightdev-000000?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub" />
 </a>
 
 </p>
-
-### 🌐 Social Profiles
 
 | Platform | Profile |
 |---|---|
@@ -1108,7 +1364,31 @@ I'm always open to connecting with developers, designers, entrepreneurs, student
 
 ---
 
-# 💡 Developer Philosophy
+# ⚡ A Few Things About Me
+
+```text
+👨🏽‍💻 Name: Iwejuo Henry Ebuka
+⚡ Developer Identity: CodeLight
+🐙 GitHub: codelightdev
+🎓 University: Lagos State University
+📚 Level: 400 Level
+🏫 Current Training: TS Academy Full-Stack Development
+🚀 Career Direction: Full-Stack / MERN Stack Development
+⚛️ React Developer
+🟨 JavaScript Developer
+🐘 PHP Developer
+🗄️ MySQL Developer
+🛡️ Future Cybersecurity Explorer
+⚙️ Future DevOps Explorer
+💡 Problem Solver
+📚 Lifelong Learner
+🚀 Builder
+🌍 Nigerian Developer
+```
+
+---
+
+# 🧠 CodeLight Philosophy
 
 ### 📚 Learn
 
@@ -1140,94 +1420,45 @@ A project becomes valuable when people can actually use it.
 
 ---
 
-# 🌍 Beyond Code
-
-Technology is a major part of my journey, but I'm interested in more than programming.
-
-I'm also interested in:
-
-- 💡 Entrepreneurship
-- 🚀 Startups
-- 🧠 Problem solving
-- 🎨 Product design
-- 🌍 Technology for real-world problems
-- 📈 Personal development
-- 🤝 Collaboration
-- 📚 Continuous learning
-- 🎵 Digital platforms
-- 💼 Building technology businesses
-
-My long-term vision is to combine **software development + product thinking + entrepreneurship**.
-
----
-
-# 🤝 Collaboration
-
-I'm open to connecting and collaborating with:
-
-- 👨🏽‍💻 Developers
-- 🎨 Designers
-- 🚀 Founders
-- 💡 Entrepreneurs
-- 📚 Students
-- 🌍 Tech enthusiasts
-- 🧑🏽‍💻 Open-source contributors
-
-I'm especially interested in projects where I can:
-
-- Learn something new
-- Contribute meaningful work
-- Solve real problems
-- Work with other developers
-- Build useful products
-- Explore new technologies
-- Grow through collaboration
-
----
-
-# ⚡ A Few Things About Me
+# 🔥 My Developer Mindset
 
 ```text
-👨🏽‍💻 Name: Iwejuo Henry Ebuka
-⚡ Developer Name: CodeLight
-🐙 GitHub: codelightdev
-🎓 Education: Lagos State University
-📚 Level: 400 Level
-🏫 Current Training: TS Academy Full-Stack Development
-🚀 Career Goal: Full-Stack Software Developer
-⚛️ React Developer
-🟨 JavaScript Developer
-🐘 PHP Developer
-🗄️ MySQL Developer
-🔐 Security Learner
-🌐 Web Developer
-💡 Problem Solver
-📚 Lifelong Learner
-🚀 Builder
-🌍 Nigerian Developer
+I don't need to know everything today.
+
+I need to keep learning.
+
+I don't need every project to be perfect.
+
+I need every project to teach me something.
+
+I don't need to avoid bugs.
+
+I need to understand them.
+
+I don't need to compete with another developer's journey.
+
+I need to improve my own.
+
+                    ↓
+
+          LEARN. BUILD. DEBUG. GROW.
 ```
-
----
-
-# 🧠 CodeLight Philosophy
-
-> **"Don't just learn code. Build with it."**
-
-> **"Every bug is an opportunity to understand something better."**
-
-> **"You don't have to know everything. You have to know how to learn."**
-
-> **"Learn. Build. Solve. Improve. Repeat."**
 
 ---
 
 # 🚀 Building Today. Learning Every Day. Becoming Better With Every Project.
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:1a1200,65:B8860B,100:FFD700&height=170&section=footer&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
 
 ### ⚡ CodeLight
 
 **Iwejuo Henry Ebuka**
+
+**Learn • Build • Secure • Deploy • Improve**
 
 <br/>
 
@@ -1235,11 +1466,7 @@ I'm especially interested in projects where I can:
 <a href="https://www.instagram.com/codelightdev?igsh=cWxwYTB4bms4bjFn">Instagram</a> •
 <a href="https://www.facebook.com/profile.php?id=61558660801207">Facebook</a> •
 <a href="https://youtube.com/@codelightacademy?si=mqVX5_2xw3eGSPpp">YouTube</a> •
-<a href="https://www.tiktok.com/@codelightacademy?_r=1&_t=ZS-98SsbWjsc0T">TikTok</a> •
+<a href="https://www.tiktok.com/@codelightacademy?_r=1&_t=ZS-98SsbWJsc0T">TikTok</a> •
 <a href="https://x.com/codelightdev">X</a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:0369A1,70:0F172A,100:020617&height=150&section=footer" width="100%" />
-
-</div>
+</p>
